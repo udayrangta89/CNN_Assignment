@@ -22,7 +22,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - adam optimized worked better than sgd for this assignment
 - Data augmentation can help with reducing the gap between training and validation accuracy in case of overfitting
 - Class imblances can be rectified with Augmentor library
-- Combinations of different features can help with better accuracy
+- Augmentor approrach to generate more training data, enhances the accuracy greatly.
+- We can try different options of adding/removing layers, regularizations, to make the complex perform better.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
